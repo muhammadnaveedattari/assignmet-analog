@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: stylish;
+}
+html{
+    font-size: 62.5%;
+}
+@font-face {
+    font-family: stylish;
+    src: url(./fonts/BaskervvilleSC-Regular.ttf);
+}
+
+body{
+    background: whitesmoke;
+    padding: 100px;
+}
+
+h5{
+    text-align: center;
+    font-size: 2rem;
+}
+h1{
+    text-align: center;
+font-size: 5rem;}
+h3{
+    text-align: center;
+    font-size: 4rem;
+}
+span.a{
+    text-align: center;
+    font-size: 3rem;
+    padding: 40px;
+}
+span.b{
+    text-align: center;
+    font-size: 3rem;
+    padding: 40px;
+}span.c{
+    text-align: center;
+    font-size: 3rem;
+    padding: 40px
+}span.d{
+    text-align: center;
+    font-size: 3rem;
+    padding: 40px;
+}span.e{
+    text-align: center;
+    font-size: 3rem;
+    padding: 40px
+}
+img{
+    align-items: center;
+}
+p{
+    font-size: 3rem;
+}
